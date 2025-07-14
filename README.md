@@ -3,7 +3,7 @@ by DD Nguyen: [ducduy.nguyen@insight-centre.org](mailto:ducduy.nguyen@insight-ce
 1. ##openWebProjectSkeleton
 Web design project blank templates
 Contents:
-##1. bare-blankHTMLCSSJS_Project
+##1. Bare-blankHTMLCSSJS_Project
 a BARE html PROJECT template, with
 - CSS included in ./css/styles.css
 
